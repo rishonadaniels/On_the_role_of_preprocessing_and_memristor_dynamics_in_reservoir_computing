@@ -1,1 +1,1 @@
-# On_the_role_of_preprocessing_and_memristor_dynamics_in_reservoir_computing
+# On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification
