@@ -1,0 +1,1 @@
+# On_the_role_of_preprocessing_and_memristor_dynamics_in_reservoir_computing
